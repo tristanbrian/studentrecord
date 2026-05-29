@@ -134,4 +134,4 @@ Django’s built-in admin is available if you use a superuser account:
 
 ## License
 
-See the repository owner for license and usage terms.
+This project is licensed by MIT.
